@@ -1,0 +1,32 @@
+aid: swapi-swapi
+name: SWAPI
+description: "All things Star Wars"
+url: https://www.swapi.tech
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Video"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Video
+  - Public APIs
+apis:
+  - name: SWAPI
+    description: "All things Star Wars"
+    humanURL: https://www.swapi.tech
+    baseURL: https://www.swapi.tech
+    tags:
+      - Video
+    properties:
+      - type: Documentation
+        url: https://www.swapi.tech
+common:
+  - type: Website
+    url: https://www.swapi.tech
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
