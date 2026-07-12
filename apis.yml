@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://www.swapi.tech
 common:
+  - type: DomainSecurity
+    url: security/swapi-swapi-domain-security.yml
   - type: Website
     url: https://www.swapi.tech
   - type: PublicAPIsListing
