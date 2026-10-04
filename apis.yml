@@ -39,7 +39,6 @@ apis:
   - name: SWAPI
     description: "All things Star Wars"
     humanURL: https://www.swapi.tech
-    baseURL: https://www.swapi.tech
     tags:
       - Video
     properties:
